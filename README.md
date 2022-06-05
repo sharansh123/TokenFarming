@@ -12,4 +12,5 @@ Features:
   Written Smart Contracts for a staking pool.
   Provides user the oppurtunity to stake their coins in the pool.
   Provides user with reward tokens while destaking.
+  Reward Tokens are calcuated based on the amount of Ethers invested. Used Chainlink V3 Aggregators for price conversions to Ether.
 
